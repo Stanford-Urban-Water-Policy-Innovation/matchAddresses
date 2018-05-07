@@ -1,4 +1,4 @@
-import matchedAddresses as mAdd
+import matchAddresses as mAdd
 
 # Create matchAddresses class
 clnAdd = mAdd.matchAddresses(
